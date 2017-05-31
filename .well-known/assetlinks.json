@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : {
+	"namespace": "android_app",
+        "package_name": "ru.mt.mobilecabinet",
+        "sha256_cert_fingerprints": ["B2:4D:93:09:D6:01:2F:8B:8C:D0:97:BC:15:E7:BA:CA:45:B3:F8:CE:AC:9E:F4:F4:D9:2F:79:D8:01:CC:71:F1"]
+  }
+}]
